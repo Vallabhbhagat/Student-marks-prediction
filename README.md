@@ -104,4 +104,6 @@ Data Science
 Predictive Modeling
 
 It built my foundation in understanding how real-world data is used to make predictions.
-   
+
+This is the r^2 score before adding the new feature: 0.7918226819398724   
+This is the r^2 score after adding new feature: 0.7948292257689691
